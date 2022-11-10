@@ -55,7 +55,7 @@ def stringifyContent(intList):
 
 # Indicate that a function is a query handler.
 
-@app('/plot')
+@app('/')
 # It control the user inputs after the program run.
 async def controller(q):
     # Grab a reference to the page at route '/plot'
