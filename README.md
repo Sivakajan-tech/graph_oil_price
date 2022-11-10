@@ -15,7 +15,7 @@ In the graph-oil-price directory start the application by running;
 `wave run datavisualization.py`
 In your web browser, go to `http://localhost:10101/`
 Then you can enjoy the Wave Environment!!!
-\n
+<br/>
 You can visit `https://plot-oil-price.herokuapp.com/` for the live app!
 It is deployed on 11th November 2022 on Heroku platform.
 
