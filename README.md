@@ -13,9 +13,7 @@ After cloning, Go to the 'graph-oil-price' directory and run the command;
 ## Start the Application along with Wave Server
 In the graph-oil-price directory start the application by running;
 `wave run datavisualization.py`
-
-## Go to your web browser and go to;
-`http://localhost:10101/plot`
+In your web browser, go to `http://localhost:10101/plot`
 Then you can enjoy the Wave Environment!!!
 
 # About Wave
