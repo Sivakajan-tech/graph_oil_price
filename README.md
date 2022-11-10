@@ -18,7 +18,7 @@ In the graph-oil-price directory start the application by running;
 `http://localhost:10101/plot`
 Then you can enjoy the Wave Environment!!!
 
-## About Wave
+# About Wave
 H2O Wave lets you build and deploy amazing, realtime analytics with dramatically less effort.
 You can visit below links to get more on Wave!!!
 - https://wave.h2o.ai/
