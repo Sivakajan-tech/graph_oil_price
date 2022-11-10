@@ -22,7 +22,7 @@ jobs:
 
       - name: run testcases
         run: |
-          python datavisualization.py
+          python datavisualization_test.py
           
       # - name: execute py script
       #   run: wave run datavisualization.py
