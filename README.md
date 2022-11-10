@@ -13,8 +13,11 @@ After cloning, Go to the 'graph-oil-price' directory and run the command;
 ## Start the Application along with Wave Server
 In the graph-oil-price directory start the application by running;
 `wave run datavisualization.py`
-In your web browser, go to `http://localhost:10101/plot`
+In your web browser, go to `http://localhost:10101/`
 Then you can enjoy the Wave Environment!!!
+\n
+You can visit `https://plot-oil-price.herokuapp.com/` for the live app!
+It is deployed on 11th November 2022 on Heroku platform.
 
 # About Wave
 H2O Wave lets you build and deploy amazing, realtime analytics with dramatically less effort.
